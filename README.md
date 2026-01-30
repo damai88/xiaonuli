@@ -246,7 +246,7 @@ docker镜像部署，简单部署
 ## 📞 联系我们
 
 ### 🤝 商务合作
-![输入图片说明](123123.png)
+<div><img src="https://foruda.gitee.com/images/1769673255513267507/470b5802_13608015.png"=商务微信" alt="商务微信" width="200" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;"></div>
 - **商务微信**：扫码上方二维码
 
 ### 🏢 公司信息
@@ -293,7 +293,7 @@ docker镜像部署，简单部署
 **已有超过100家客户选择mengjiang系统，您还在等什么？**
 
 📞 **现在咨询，立享限时优惠！**  
-![输入图片说明](123123.png)
+<div><img src="https://foruda.gitee.com/images/1769673255513267507/470b5802_13608015.png"=商务微信" alt="商务微信" width="200" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;"></div>
 
 👉 **扫描上方二维码，获取专属报价方案**
 
