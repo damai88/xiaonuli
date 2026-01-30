@@ -46,6 +46,8 @@
 - **弹性扩展**：支持集群部署，轻松应对高并发场景
 
 ---
+### ⚡ 企业级部署方案
+<div> <img src="https://gitee.com/zixi979797/xiaonuli/raw/master/111.png"=" alt="pc端" width="1280" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;">
 
 ## 🏆 技术优势
 
@@ -67,7 +69,7 @@
 - **处理速度**：单篇降重处理 < 5秒
 - **可用性**：99.9% 系统可用性保障
 - **扩展性**：支持水平扩展，轻松应对业务增长
-
+https://gitee.com/zixi979797/xiaonuli/raw/master/111.png
 ---
 
 ## 🚀 快速开始
