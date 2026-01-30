@@ -47,7 +47,7 @@
 
 ---
 ### ⚡ 企业级部署方案
-<div> <img src="https://gitee.com/zixi979797/xiaonuli/raw/master/111.png"=" alt="pc端" width="1280" height="680"style="border: 2px solid #008000; border-radius: 10px; margin: 10px;">
+<div> <img src="https://gitee.com/zixi979797/xiaonuli/raw/master/111.png"=" alt="pc端" width="1280" height="680">
 
 ## 🏆 技术优势
 
