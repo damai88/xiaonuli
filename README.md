@@ -46,8 +46,8 @@
 - **弹性扩展**：支持集群部署，轻松应对高并发场景
 
 ---
-### ⚡ 企业级部署方案
-<div> <img src="https://gitee.com/zixi979797/xiaonuli/raw/master/111.png"=" alt="pc端" width="1280" height="680">
+### ⚡ 界面展示
+<div> <img src="https://gitee.com/zixi979797/xiaonuli/raw/master/111.png"=" alt="pc端" width="1280" height="680"> </div>
 
 ## 🏆 技术优势
 
