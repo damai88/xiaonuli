@@ -12,6 +12,8 @@
 
 <div> <img src="https://foruda.gitee.com/images/1769673255513267507/470b5802_13608015.png"=商务微信" alt="商务微信" width="200" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;"> <img src="https://foruda.gitee.com/images/1769673738201236841/0f6dab00_13608015.png"=体验Demo" alt="体验Demo" width="200" style="border: 2px solid #0066cc; border-radius: 10px; margin: 10px;"> </div><p> <strong>左边：商务合作微信</strong> | <strong>右边：在线体验Demo</strong><br>  🌐 <strong>在线体验网址：</strong><a href="https://mengjiang.matuanzhang.cn" target="_blank">https://mengjiang.matuanzhang.cn</a><br>扫码获取详细报价、技术演示与商业授权 </p></div>
 
+商业版授权联系微信号：zzm197198
+
 ## 📌 项目简介
 
 **小努力家的智能降重系统**是一款专业级、企业可落地的原创性保障解决方案。系统集成了**降ai、降重、多平台适配、商业化运营**四大核心模块，为企业提供从技术部署到商业运营的全链条服务。
@@ -264,6 +266,8 @@ docker镜像部署，简单部署
 <div><img src="https://foruda.gitee.com/images/1769673255513267507/470b5802_13608015.png"=商务微信" alt="商务微信" width="200" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;"></div>
 - **商务微信**：扫码上方二维码
 
+商业版授权联系微信号：zzm197198
+
 ### 🏢 公司信息
 - **公司名称**：小努力
 - **成立时间**：2019年
@@ -309,6 +313,9 @@ docker镜像部署，简单部署
 
 📞 **现在咨询，立享限时优惠！**  
 <div><img src="https://foruda.gitee.com/images/1769673255513267507/470b5802_13608015.png"=商务微信" alt="商务微信" width="200" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;"></div>
+商业版授权联系微信号：zzm197198
+<img width="458" height="431" alt="112233" src="https://github.com/user-attachments/assets/8f3aa203-a95f-47d4-a659-5019fe358525" />
+
 
 👉 **扫描上方二维码，获取专属报价方案**
 
