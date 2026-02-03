@@ -263,8 +263,8 @@ docker镜像部署，简单部署
 ## 📞 联系我们
 
 ### 🤝 商务合作
-<div><img src="https://foruda.gitee.com/images/1769673255513267507/470b5802_13608015.png"=商务微信" alt="商务微信" width="200" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;"></div>
-- **商务微信**：扫码上方二维码
+<div><img src="https://github.com/user-attachments/assets/8f3aa203-a95f-47d4-a659-5019fe358525"=商务微信" alt="商务微信" width="200" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;"></div>
+- 商务微信：扫码上方二维码
 
 商业版授权联系微信号：zzm197198
 
@@ -314,7 +314,6 @@ docker镜像部署，简单部署
 📞 **现在咨询，立享限时优惠！**  
 <div><img src="https://github.com/user-attachments/assets/8f3aa203-a95f-47d4-a659-5019fe358525"=商务微信" alt="商务微信" width="200" style="border: 2px solid #008000; border-radius: 10px; margin: 10px;"></div>
 商业版授权联系微信号：zzm197198
-<img width="458" height="431" alt="112233" src="https://github.com/user-attachments/assets/8f3aa203-a95f-47d4-a659-5019fe358525" />
 
 
 👉 **扫描上方二维码，获取专属报价方案**
